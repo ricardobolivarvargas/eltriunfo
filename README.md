@@ -81,7 +81,5 @@ https://playback.akamaized.net/streams/1359588_9942377_lsiu76anw3e7jlqs9lx_1/med
 #EXTINF:-1 ,BARCELONA FC
 https://streamamg-fcbar01.akamaized.net/hls/live/2040130/0_fcq6zq7g/480p/hdntl=exp=1656014010~acl=%2f*~data=hdntl~hmac=65502fb8f78be4a4d9aa9185cf65298886ff7b2fa56888793ae381ea8f23f529/prog_index.m3u8
 
-#EXTINF:-1 ,DISTRITO COMEDIA
-
 #EXTINF:-1 tvg-log="https://tbmdcnd.xyz/p/v2/w1/GEolZgM2clSbzA3si7RH.webp",MX:HALL
 https://u3y8v8u4.ackcdn.net/library/702594/c68c602aebad64e8cb4ec04580cf52e26a6ef313.mp4
